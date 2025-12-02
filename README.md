@@ -19,10 +19,10 @@
 ---
 
 ## 🚀 Highlights
-- **UnityAgainstGBV** — Secure reporting system with insights & admin dashboard.  
+- **UnityAgainstGBV** — Secure reporting platform with analytics & admin dashboard.  
   🔗 https://unityagainstgbv.vercel.app  
 
-- **Portfolio** — Clean, responsive personal website.  
+- **Portfolio** — Minimal and responsive personal website.  
   🔗 https://kumbosaid.me  
 
 ---
@@ -37,11 +37,14 @@
 
 ## 🌐 Connect
 <div align="center">
-  <a href="https://linkedin.com/in/saidkumbo">
+  <a href="https://www.linkedin.com/in/kumbo-said/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:saidkumbo00@gmail.com">
+  <a href="mailto:7014.2023@students.ku.ac.ke">
     <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://instagram.com/kumbo.said">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white"/>
   </a>
   <a href="https://kumbosaid.me">
     <img src="https://img.shields.io/badge/Portfolio-000?style=flat&logo=vercel&logoColor=white"/>
