@@ -1,6 +1,6 @@
 <!-- 🔥 Minimal Animated Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:141E30,100:243B55&height=180&text=Said%20Kumbo&fontColor=ffffff&fontSize=50&fontAlignY=65&desc=Full-Stack%20Developer%20%7C%20MERN%20Stack&descAlignY=90" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:141E30,100:243B55&height=180&text=Kumbo%20Said&fontColor=ffffff&fontSize=50&fontAlignY=65&desc=Full-Stack%20Developer%20%7C%20MERN%20Stack&descAlignY=90" />
 </p>
 
 <h1 align="center">👋 Hey, I'm Kumbo Said</h1>
