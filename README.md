@@ -26,13 +26,6 @@
 - **Portfolio** — Minimal and responsive personal website.  
   🔗 https://kumbosaid.me  
 
----
-
-## 📊 Activity
-<div align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=saidkumbo&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="150" src="https://streak-stats.demolab.com?user=saidkumbo&theme=tokyonight&hide_border=true" />
-</div>
 
 ---
 
